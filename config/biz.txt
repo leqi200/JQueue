@@ -1,0 +1,23 @@
+NO_PHONE_INPUT_OPTION_SERVER :无需手机号码输入选项的业务[业务类型1：名称1;业务类型2：名称2;]
+FORCE_NUMBER:号码强制标识(0：不强制或1:强制)
+LED_CONTENT：LED电子屏显示内容
+TAKE_NUMBER_VALIDATION:是否需要取号确认(1:为是、0为否)  
+REMOTE_IP：服务器IP
+REMOTE_PORT:服务器端口号
+CHANNEL_NO：营业厅渠道号
+TIME_INTERVAL:心跳间隔时间，（最少单位为1分钟）
+
+{"company":{"title":"公司名称","val":"中国移动通信集团广东有限公司","fontsize":2,"x":12,"y":12},
+ "sellingArea":{"title":"服务厅名称","val":"中国移动通信集团广东有限公司","fontsize":2,"x":12,"y":12},
+ "bizname":{"title":"业务名称","val":"中国移动通信集团广东有限公司","fontsize":2,"x":12,"y":12},
+ "ticketNo":{"title":"票号","val":"中国移动通信集团广东有限公司","fontsize":2,"x":12,"y":12},
+ "counter":{"title":"窗口号","val":"中国移动通信集团广东有限公司","fontsize":2,"x":12,"y":12},
+ "waitNum":{"title":"等候人数","val":"中国移动通信集团广东有限公司","fontsize":2,"x":12,"y":12},
+ "content":{"title":"补充内容","val":"中国移动通信集团广东有限公司","fontsize":2,"x":12,"y":12},
+ "marketing":{"title":"营销内容","val":"中国移动通信集团广东有限公司","fontsize":2,"x":12,"y":12},
+ "ticketTime":{"title":"取号时间","val":"中国移动通信集团广东有限公司","fontsize":2,"x":12,"y":12},
+ "phone":{"title":"手机号码","val":"中国移动通信集团广东有限公司","fontsize":2,"x":12,"y":12},
+ "channelNo":{"title":"渠道编号","val":"中国移动通信集团广东有限公司","fontsize":2,"x":12,"y":12},
+ "bizNo":{"title":"业务编码","val":"中国移动通信集团广东有限公司","fontsize":2,"x":12,"y":12},
+}
+{"company":{"title":"公司名称","val":"中国移动通信集团广东有限公司广州分公司","w":1,"h":1,"fontsize":1,"x":0,"y":0},"sellingArea":{"title":"营业厅名称","val":"中信服务厅","w":1,"h":1,"fontsize":1,"x":0,"y":0},"bizname":{"title":"业务名称","val":"综合业务","w":2,"h":2,"fontsize":1,"x":0,"y":0},"ticketNo":{"title":"票号","val":"AOO1","w":2,"h":2,"fontsize":1,"x":0,"y":0},"counter":{"title":"等候窗口","val":"1,2,3","w":1,"h":1,"fontsize":1,"x":0,"y":0},"waitNum":{"title":"等候人数","val":"20","w":1,"h":1,"fontsize":1,"x":0,"y":0},"content":{"title":"内容","val":"你可以登录门户网站(http://www.gdchinamobile.com/gx/)的优惠资讯栏目，随时随地查询各类优惠活动的资讯。","w":1,"h":1,"fontsize":1,"x":0,"y":0},"marketing":{"title":"主动营销信息","val":"主动营销信息......","w":1,"h":1,"fontsize":1,"x":0,"y":0},"ticketTime":{"title":"取号时间","val":"取号时间：2008-11-30 09：23：50","w":1,"h":1,"fontsize":1,"x":0,"y":0},"phone":{"title":"手机号","val":"取票手机：139xxxxxxxxxxx,请您凭号服务","w":1,"h":1,"fontsize":1,"x":0,"y":0},"channelNo":{"title":"渠道号","val":"ZZGG001","w":1,"h":1,"fontsize":1,"x":0,"y":0},"bizNo":{"title":"业务编码","val":"A","w":1,"h":1,"fontsize":1,"x":0,"y":0}}
